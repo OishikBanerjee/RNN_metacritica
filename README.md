@@ -71,4 +71,4 @@ Here is an excerpt from the dataset:
 ---
 
 ## Contact
-For any questions or suggestions regarding this project, please reach out to the author via GitHub or email (details not provided in this document).
+For any questions or suggestions regarding this project, please reach out 055028@fsm.ac.in
