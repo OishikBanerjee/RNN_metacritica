@@ -1,7 +1,7 @@
 # README: Sentiment Analysis on Movie Reviews
 
 ## Overview
-This project, contained in the Jupyter Notebook file `aaob055004028_rnn_metacritic.ipynb`, focuses on analyzing movie reviews using sentiment analysis. The dataset includes reviews for movies such as *La La Land* and *Pinocchio*, with each review labeled by a sentiment (positive or negative). The primary goal is to explore how different reviews and ratings correlate with sentiments.
+This project,`aaob055004028_rnn_metacritic.ipynb`, focuses on analyzing movie reviews using sentiment analysis. The dataset includes reviews for movies such as *La La Land* and *Pinocchio*, with each review labeled by a sentiment (positive or negative). The primary goal is to explore how different reviews and ratings correlate with sentiments.
 
 ---
 
